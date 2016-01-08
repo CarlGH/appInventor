@@ -1,0 +1,40 @@
+{
+    "lista": [
+        [
+            "id",
+            "Nome do prato",
+            "imagem",
+            "ingredientes",
+            "alergenicos",
+            "votos"
+        ], [
+            "id",
+            "Nome do prato",
+            "imagem",
+            "ingredientes",
+            "alergenicos",
+            "votos"
+        ], [
+            "id",
+            "Nome do prato",
+            "imagem",
+            "ingredientes",
+            "alergenicos",
+            "votos"
+        ], [
+            "id",
+            "Nome do prato",
+            "imagem",
+            "ingredientes",
+            "alergenicos",
+            "votos"
+        ], [
+            "id",
+            "Nome do prato",
+            "imagem",
+            "ingredientes",
+            "alergenicos",
+            "votos"
+        ]
+    ]
+}
